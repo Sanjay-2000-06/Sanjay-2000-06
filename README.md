@@ -19,7 +19,7 @@
 - 💡 Currently working on **end-to-end analytics projects** and improving my BI skills  
 - 🧠 Exploring **ETL, DAX, EDA, Statistical Analysis, and Reporting**  
 - ✍️ Sharing analytics content & dashboards  
-- 📫 Reach me at: **sanjay2000006@gmail.com**  
+- 📫 Reach me at: **sanjaysn4852@gmail.com**  
 - 🔗 GitHub: **https://github.com/Sanjay-2000-06**
 
 ---
@@ -27,10 +27,10 @@
 ## 🤝 **Connect With Me**
 
 <p align="left">
-<a href="https://www.linkedin.com/in/sanjay-r-5405512bb/">
+<a href="https://www.linkedin.com/in/sanjaysn2000/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:sanjay2000006@gmail.com">
+<a href="mailto:sanjaysn4852@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
@@ -46,8 +46,7 @@
 ---
 
 ## 🖥️ **Featured Dashboards & Projects**
-
-> *(Add project links when ready — I can write descriptions for each if you want!)*
+> *(Add project links here — I can write descriptions for each dashboard if you want!)*
 
 ---
 
@@ -74,14 +73,6 @@
 
 ---
 
-## 📈 **Metrics Overview (Optional)**
-
-<p align="center">
-  <img src="https://github.com/Sanjay-2000-06/Sanjay-2000-06/blob/main/github-metrics.svg" />
-</p>
-
----
-
 ## ✨ **Quote**
 
 > **“Turning raw data into meaningful insights — one dashboard at a time.”**
@@ -90,4 +81,5 @@
 
 ### 🙏 Thank you for visiting my profile!  
 Let’s connect and create impactful data solutions together.
+
 
